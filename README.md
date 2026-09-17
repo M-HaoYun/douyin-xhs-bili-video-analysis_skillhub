@@ -4,6 +4,8 @@ description: 跨平台视频分析（抖音/小红书/B站）。当用户丢来�
 agent_created: true
 ---
 
+也可直接在腾讯skillhub下载：https://skillhub.cn/skills/user_e285fd2e/douyin-xhs-bili-video-analysis
+
 # 跨平台视频分析（抖音 / 小红书 / B站）
 
 ## 触发场景
